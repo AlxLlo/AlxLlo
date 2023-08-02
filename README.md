@@ -30,5 +30,8 @@
 ---
 ### 📊 My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlxLlo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlxLlo&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+![AlxLlo GitHub stats](https://github-readme-stats.vercel.app/api?username=AlxLlo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlxLlo&layout=compact)
