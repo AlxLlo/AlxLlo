@@ -23,8 +23,12 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' tittle='HTML5' alt='HTML' width='40' height='40'/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' tittle='CSS3' alt='CSS' width='40' height='40'/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' tittle='Linux' alt='Linux' width='40' height='40'/>
-    <img src='https://icon-icons.com/es/icono/Microsoft-Visual-Studio-Code-Alt-macOS-BigSur/189953' tittle='VC' alt='VC' width='40' height='40'/>
-  </div>
-    
+    <img src='[https://iconos8.es/icon/0OQR1FYCuA9f/visual-studio-code-2019](https://iconos8.es/icon/0OQR1FYCuA9f/visual-studio-code-2019)' tittle='VC' alt='VC' width='40' height='40'/>
   </div>
 </div>
+
+---
+### 📊 My Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlxLlo)](https://git.io/streak-stats)
+
