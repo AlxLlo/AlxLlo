@@ -1,7 +1,7 @@
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/l3vR3LpUR3uFkFXlC/giphy.gif' width='200'/>
   <h1 align='center'>Hi👋, I'm Alex Llontop</h1>
-  <h3 align='center'>I'm currently studying Enterprise Data Architecture in Big Data at CIBERTEC and I have a Bachelor's             degree in Environmental Engineering from UNAC. My experience as an OSH supervisor has allowed me to develop skills in          the management and analysis of OSH-related data. In addition my knowledge and skills in programming such as java,              python, MySql, linux and in data visualization such as Power Bi.</h3>
+  <h3 align='center'>My experience as an OSH supervisor has allowed me to develop skills in the management and analysis of OSH-related data. In addition my knowledge and skills in programming such as java, python, MySql, linux and in data visualization such as Power Bi.</h3>
 </div>
 
 ---
@@ -13,3 +13,18 @@
 - 📫 How to reach me **alexllontopreluz@gmail.com**
 
 ---
+
+<div align='left'>
+  <h3>👨‍💻 Languages and Tools: </h3>
+  <div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' tittle='PYTHON' alt='PY' width='40' height='40'/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg' tittle='JavaScript' alt='JS' width='40' height='40'/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' tittle='JavaScript' alt='JS' width='40' height='40'/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' tittle='HTML5' alt='HTML' width='40' height='40'/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' tittle='CSS3' alt='CSS' width='40' height='40'/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' tittle='Linux' alt='Linux' width='40' height='40'/>
+    <img src='https://icon-icons.com/es/icono/Microsoft-Visual-Studio-Code-Alt-macOS-BigSur/189953' tittle='VC' alt='VC' width='40' height='40'/>
+  </div>
+    
+  </div>
+</div>
